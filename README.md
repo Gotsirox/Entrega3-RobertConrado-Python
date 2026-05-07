@@ -1,13 +1,13 @@
 # Entrega 3
 Pagina para gestionar clientes de una empresa
 
-## 🚀 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 *   **Django** 
 *   **Python** 
-*   **Bootstrap** (Si usaste algún framework de CSS)
+*   **Bootstrap** 
 
-## 📦 Instalación y Configuración
+##  Instalación y Configuración
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
